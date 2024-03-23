@@ -18,3 +18,5 @@ function newFeatAdded(){
 function newFeat2Added(){
     console.log("New feat added");
 }
+
+console.log("Added in branch demo-2");
